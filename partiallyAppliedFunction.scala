@@ -6,7 +6,7 @@ object partiallyAppliedFunction {
   /*why we are using log function here ?
   log function is used to give a message or text in some suitation
 
-  example: if you code show error then we want to log something
+  example: if your code show error then we want to log something
     and you want to know at which time log is created  or you want to show some information to user
   or warnings  or critical conditions in our code then we use log function*/
 
