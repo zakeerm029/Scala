@@ -1,4 +1,0 @@
-starting scala
-then 
-will start spark soon
-adding fourth line in github
